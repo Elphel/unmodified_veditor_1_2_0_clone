@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/veditor/code/!svn/ver/698/trunk/src/src/net/sourceforge/veditor/editor/scanner
+END
+HdlScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/veditor/code/!svn/ver/621/trunk/src/src/net/sourceforge/veditor/editor/scanner/HdlScanner.java
+END
+HdlCommentScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/veditor/code/!svn/ver/555/trunk/src/src/net/sourceforge/veditor/editor/scanner/HdlCommentScanner.java
+END
+HdlPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/veditor/code/!svn/ver/556/trunk/src/src/net/sourceforge/veditor/editor/scanner/HdlPartitionScanner.java
+END

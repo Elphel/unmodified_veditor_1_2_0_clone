@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/veditor/code/!svn/ver/698/trunk/src/src/net/sourceforge/veditor/editor/scanner/verilog
+END
+WordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/veditor/code/!svn/ver/542/trunk/src/src/net/sourceforge/veditor/editor/scanner/verilog/WordDetector.java
+END
+VerilogPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/veditor/code/!svn/ver/698/trunk/src/src/net/sourceforge/veditor/editor/scanner/verilog/VerilogPartitionScanner.java
+END

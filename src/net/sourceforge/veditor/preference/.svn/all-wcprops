@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/preference
+END
+AbstractPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/veditor/code/!svn/ver/130/trunk/src/src/net/sourceforge/veditor/preference/AbstractPreferencePage.java
+END
+WarningPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/veditor/code/!svn/ver/677/trunk/src/src/net/sourceforge/veditor/preference/WarningPreferencePage.java
+END
+ErrorParserPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/veditor/code/!svn/ver/640/trunk/src/src/net/sourceforge/veditor/preference/ErrorParserPreferencePage.java
+END
+PatternBuilderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/veditor/code/!svn/ver/617/trunk/src/src/net/sourceforge/veditor/preference/PatternBuilderDialog.java
+END
+VhdlCodeStylePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/preference/VhdlCodeStylePreferencePage.java
+END
+TemplatePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/veditor/code/!svn/ver/643/trunk/src/src/net/sourceforge/veditor/preference/TemplatePreferencePage.java
+END
+AbstractSimplePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/veditor/code/!svn/ver/130/trunk/src/src/net/sourceforge/veditor/preference/AbstractSimplePreferencePage.java
+END
+ColorPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/veditor/code/!svn/ver/549/trunk/src/src/net/sourceforge/veditor/preference/ColorPreferencePage.java
+END
+VhdlWarningPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/veditor/code/!svn/ver/677/trunk/src/src/net/sourceforge/veditor/preference/VhdlWarningPreferencePage.java
+END
+VerilogCodeStylePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/veditor/code/!svn/ver/648/trunk/src/src/net/sourceforge/veditor/preference/VerilogCodeStylePreferencePage.java
+END
+PreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/veditor/code/!svn/ver/684/trunk/src/src/net/sourceforge/veditor/preference/PreferenceInitializer.java
+END
+CodeStylePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/veditor/code/!svn/ver/639/trunk/src/src/net/sourceforge/veditor/preference/CodeStylePreferencePage.java
+END
+PreferenceStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/preference/PreferenceStrings.java
+END
+VerilogWarningPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/veditor/code/!svn/ver/684/trunk/src/src/net/sourceforge/veditor/preference/VerilogWarningPreferencePage.java
+END
+TopPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/preference/TopPreferencePage.java
+END

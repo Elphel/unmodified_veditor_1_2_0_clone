@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/document
+END
+HdlDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/533/trunk/src/src/net/sourceforge/veditor/document/HdlDocumentProvider.java
+END
+VerilogDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/document/VerilogDocumentProvider.java
+END
+HdlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/veditor/code/!svn/ver/604/trunk/src/src/net/sourceforge/veditor/document/HdlDocument.java
+END
+VerilogDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/veditor/code/!svn/ver/551/trunk/src/src/net/sourceforge/veditor/document/VerilogDocument.java
+END
+VhdlDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/document/VhdlDocumentProvider.java
+END
+VhdlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/document/VhdlDocument.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/builder
+END
+NewBuildConfigDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/builder/NewBuildConfigDialog.java
+END
+SimulatorPropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/builder/SimulatorPropertyPage.java
+END
+ExternalLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/veditor/code/!svn/ver/146/trunk/src/src/net/sourceforge/veditor/builder/ExternalLauncher.java
+END
+BuildConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/veditor/code/!svn/ver/465/trunk/src/src/net/sourceforge/veditor/builder/BuildConfig.java
+END
+ErrorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/veditor/code/!svn/ver/689/trunk/src/src/net/sourceforge/veditor/builder/ErrorParser.java
+END
+SimulateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/builder/SimulateBuilder.java
+END

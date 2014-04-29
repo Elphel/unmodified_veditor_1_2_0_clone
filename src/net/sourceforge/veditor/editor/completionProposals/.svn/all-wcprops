@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/veditor/code/!svn/ver/611/trunk/src/src/net/sourceforge/veditor/editor/completionProposals
+END
+DynamicProposalProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/DynamicProposalProvider.java
+END
+VerilogCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/VerilogCompletionProposal.java
+END
+HdlTemplateProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/HdlTemplateProposal.java
+END
+TemplateCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/TemplateCompletionProposal.java
+END
+VerilogInstanceCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/veditor/code/!svn/ver/583/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/VerilogInstanceCompletionProposal.java
+END
+VhdlRecordCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/veditor/code/!svn/ver/580/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/VhdlRecordCompletionProposal.java
+END
+IComparableCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/IComparableCompletionProposal.java
+END
+CompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/CompletionProposal.java
+END
+VhdlSubprogramProposalProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/veditor/code/!svn/ver/457/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/VhdlSubprogramProposalProvider.java
+END
+VhdlInstanceCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/veditor/code/!svn/ver/611/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/VhdlInstanceCompletionProposal.java
+END
+InstanceCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/veditor/code/!svn/ver/610/trunk/src/src/net/sourceforge/veditor/editor/completionProposals/InstanceCompletionProposal.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/veditor/code/!svn/ver/699/trunk/src/_generated/net/sourceforge/veditor/parser
+END
+VhdlParserCoreTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/veditor/code/!svn/ver/193/trunk/src/_generated/net/sourceforge/veditor/parser/VhdlParserCoreTokenManager.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/veditor/code/!svn/ver/115/trunk/src/_generated/net/sourceforge/veditor/parser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/veditor/code/!svn/ver/473/trunk/src/_generated/net/sourceforge/veditor/parser/TokenMgrError.java
+END
+VhdlParserCoreConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/veditor/code/!svn/ver/193/trunk/src/_generated/net/sourceforge/veditor/parser/VhdlParserCoreConstants.java
+END
+VhdlParserCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/193/trunk/src/_generated/net/sourceforge/veditor/parser/VhdlParserCore.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/472/trunk/src/_generated/net/sourceforge/veditor/parser/ParseException.java
+END
+VerilogParserCoreTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/veditor/code/!svn/ver/197/trunk/src/_generated/net/sourceforge/veditor/parser/VerilogParserCoreTokenManager.java
+END
+VerilogParserCoreConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/veditor/code/!svn/ver/139/trunk/src/_generated/net/sourceforge/veditor/parser/VerilogParserCoreConstants.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/115/trunk/src/_generated/net/sourceforge/veditor/parser/JavaCharStream.java
+END
+VerilogParserCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/veditor/code/!svn/ver/190/trunk/src/_generated/net/sourceforge/veditor/parser/VerilogParserCore.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/templates
+END
+VhdlTemplateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/templates/VhdlTemplateVariable.java
+END
+VhdlGlobalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/veditor/code/!svn/ver/458/trunk/src/src/net/sourceforge/veditor/templates/VhdlGlobalContext.java
+END
+VerilogNewFileContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/templates/VerilogNewFileContext.java
+END
+TemplateWithIndent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/458/trunk/src/src/net/sourceforge/veditor/templates/TemplateWithIndent.java
+END
+VerilogInStatementContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/veditor/code/!svn/ver/458/trunk/src/src/net/sourceforge/veditor/templates/VerilogInStatementContextType.java
+END
+VerilogInModuleContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/veditor/code/!svn/ver/458/trunk/src/src/net/sourceforge/veditor/templates/VerilogInModuleContextType.java
+END
+VerilogOutModuleContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/veditor/code/!svn/ver/458/trunk/src/src/net/sourceforge/veditor/templates/VerilogOutModuleContextType.java
+END
+VhdlNewFileContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/templates/VhdlNewFileContext.java
+END
+HdlContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/veditor/code/!svn/ver/699/trunk/src/src/net/sourceforge/veditor/templates/HdlContextType.java
+END

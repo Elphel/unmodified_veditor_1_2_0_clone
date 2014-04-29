@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/veditor/code/!svn/ver/560/trunk/src/src/net/sourceforge/veditor/editor/scanner/vhdl
+END
+VhdlPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/veditor/code/!svn/ver/560/trunk/src/src/net/sourceforge/veditor/editor/scanner/vhdl/VhdlPartitionScanner.java
+END
+WordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/veditor/code/!svn/ver/546/trunk/src/src/net/sourceforge/veditor/editor/scanner/vhdl/WordDetector.java
+END

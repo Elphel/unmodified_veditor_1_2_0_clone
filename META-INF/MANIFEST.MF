@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Verilog/VHDL Plugin 
+Bundle-SymbolicName: net.sourceforge.veditor; singleton:=true
+Bundle-Version: 1.2
+Bundle-ClassPath: veditor.jar
+Bundle-Activator: net.sourceforge.veditor.VerilogPlugin
+Bundle-Vendor: VEditor Team
+Bundle-Localization: plugin
+Export-Package: 
+ net.sourceforge.veditor,
+ net.sourceforge.veditor.actions,
+ net.sourceforge.veditor.builder,
+ net.sourceforge.veditor.editor,
+ net.sourceforge.veditor.log,
+ net.sourceforge.veditor.parser,
+ net.sourceforge.veditor.preference,
+ net.sourceforge.veditor.wizard
+Require-Bundle: 
+ org.eclipse.ui,
+ org.eclipse.ui.editors,
+ org.eclipse.ui.workbench.texteditor,
+ org.eclipse.core.runtime,
+ org.eclipse.jface.text,
+ org.eclipse.core.resources,
+ org.eclipse.ui.views,
+ org.eclipse.ui.ide,
+ org.eclipse.ui.console,
+ org.eclipse.core.filesystem,
+ org.eclipse.debug.ui,
+ org.eclipse.core.variables
+Eclipse-LazyStart: true
