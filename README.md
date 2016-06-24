@@ -6,3 +6,5 @@ Unmodified clone of VEditor source files downloaded from http://sourceforge.net/
 This repository is used as a source for patching for VDT plugin project. Because of the license incompatibility between
 VEditor (EPL v1.0) and VDT plugin (GPL v3+) VDT plugin code can not be distributed with VEditor, it has to be generated
 buy a user from VEditor source tree and VDT plugin patch
+
+There is also 1 file from CDT project here - LineBackgroundPainter.java
